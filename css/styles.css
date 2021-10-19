@@ -545,6 +545,10 @@ footer {
     float: left
 }
 
+.about-image {
+    float: right;
+}
+
 .project-info {
     position: absolute;
     top: 50%;
