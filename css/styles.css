@@ -367,6 +367,13 @@ footer {
     margin: 0
 }
 
+.about-image {
+    float: right;
+    max-width: 320px;
+    max-height: 460px;
+    margin: 1px
+}
+
 #experience {
     padding: 50px 15px;
     text-align: center;
@@ -543,12 +550,6 @@ footer {
 
 .project-image {
     float: left
-}
-
-.about-image {
-    float: right;
-    max-width: 320px;
-    max-height: 460px
 }
 
 .project-info {
