@@ -369,8 +369,8 @@ footer {
 
 .about-image {
     float: right;
-    max-width: 320px;
-    max-height: 460px;
+    max-width: 300px;
+    max-height: 400px;
     margin: 1px
 }
 
@@ -824,7 +824,10 @@ footer {
         float: none
     }
     .project-image {
-        display: none
+        display: none;
+    }
+    .about-image {
+        display: none;
     }
     .project-info {
         position: relative;
